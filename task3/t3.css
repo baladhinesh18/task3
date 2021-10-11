@@ -1,0 +1,67 @@
+#ig{
+    background-image: url("./images/img2.png");
+    background-position: center;
+    background-size: cover;
+    height: 490px;
+    width: 100vw;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+}
+body{
+    margin: 0px;
+}
+.c1{
+    height: 400px;
+    width: 350px;
+    background-color:rgba(228, 251, 225, 0.575);
+    /* rgba(12,122,145,255) */
+    margin-left: 100px;
+}
+h1{
+    text-align: center;
+    color:blue;
+    padding-top: 30px;
+}
+h2{
+    text-align: center;
+    color:blue;
+}
+/* h3{
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+} */
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    color:blue;
+    font-size: 20px;
+}
+.aa{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.i1{
+height:25px;
+width: 70px;
+background-color: blue;
+color: white;
+border-radius: 5px;
+padding-top: 5px;
+margin-left: 5px;
+font-weight: 600;
+}
+button{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: none;
+    height: 35px;
+    width: 150px;
+    font-size: large;
+    margin-left: 100px;
+}
